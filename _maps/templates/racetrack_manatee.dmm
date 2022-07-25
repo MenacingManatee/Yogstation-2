@@ -1,135 +1,39 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"aa" = (
-/obj/structure/table/wood,
-/obj/item/storage/crayons{
-	pixel_x = -3;
-	pixel_y = 8
-	},
-/obj/item/storage/crayons{
-	pixel_x = 2
-	},
-/obj/machinery/light,
-/turf/open/floor/wood,
-/area/survivalpod)
 "ac" = (
-/obj/structure/window/reinforced/clockwork/fulltile,
+/mob/living/simple_animal/butterfly,
+/obj/structure/flora/rock,
+/turf/open/floor/grass/fairy/green,
+/area/ai_monitored/turret_protected/ai)
+"ai" = (
+/turf/closed/wall/mineral/bronze,
+/area/ai_monitored/turret_protected/ai)
+"am" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"aB" = (
+/turf/closed/wall/r_wall,
+/area/ai_monitored/turret_protected/ai)
+"aD" = (
+/obj/structure/noticeboard{
+	pixel_y = 32
+	},
 /turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"ad" = (
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"ax" = (
-/obj/structure/table/abductor,
-/obj/item/paper/guides/antag/abductor,
-/obj/structure/window/paperframe,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"aI" = (
-/obj/structure/alien/weeds/node,
-/obj/structure/alien/resin/wall,
-/obj/structure/alien/weeds,
+/area/ai_monitored/turret_protected/ai)
+"aW" = (
 /obj/structure/alien/weeds,
 /turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"bd" = (
-/obj/structure/table/bananium,
-/obj/structure/window/plasma/reinforced{
-	dir = 8
-	},
-/obj/structure/table/bananium,
-/obj/structure/window/plasma/reinforced{
-	dir = 1
-	},
-/obj/item/clothing/shoes/clown_shoes/banana_shoes,
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"bg" = (
-/obj/item/aicard,
-/obj/machinery/light/floor,
-/turf/open/floor/circuit/green,
-/area/survivalpod)
-"bh" = (
-/obj/effect/turf_decal/siding/wood,
-/turf/open/floor/carpet,
-/area/survivalpod)
-"bp" = (
-/obj/effect/turf_decal/siding/wood,
-/obj/structure/bookcase/random/reference,
-/turf/open/floor/carpet,
-/area/survivalpod)
-"bq" = (
-/obj/structure/destructible/cult/talisman,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"bE" = (
-/mob/living/simple_animal/cheese,
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"cy" = (
-/obj/structure/reagent_dispensers/watertank,
-/obj/effect/turf_decal/tile/red{
-	dir = 1
-	},
-/obj/effect/turf_decal/tile/red{
+/area/ai_monitored/turret_protected/ai)
+"aZ" = (
+/obj/structure/window/reinforced{
 	dir = 4
 	},
-/obj/effect/turf_decal/tile/red,
-/obj/effect/turf_decal/tile/red{
-	dir = 8
-	},
-/turf/open/floor/white,
-/area/survivalpod)
-"cO" = (
-/turf/closed/wall/r_wall,
-/area/survivalpod)
-"dg" = (
-/obj/structure/easel,
-/obj/item/canvas/twentythreeXnineteen,
-/turf/open/floor/wood,
-/area/survivalpod)
-"dr" = (
-/obj/item/grown/bananapeel,
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"dB" = (
-/obj/structure/table/wood,
-/obj/item/storage/pill_bottle/dice,
-/obj/machinery/light,
-/turf/open/floor/wood,
-/area/survivalpod)
-"dZ" = (
-/obj/machinery/door/airlock/gold,
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"em" = (
-/obj/effect/decal/cleanable/blood/tracks{
-	dir = 8
-	},
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"eA" = (
-/obj/item/clothing/head/bearpelt,
-/obj/item/reagent_containers/food/snacks/meat/slab/bear,
-/obj/item/reagent_containers/food/snacks/meat/slab/bear,
-/obj/item/reagent_containers/food/snacks/meat/slab/bear,
-/obj/item/reagent_containers/food/snacks/meat/slab/bear,
-/obj/effect/decal/cleanable/blood,
-/turf/open/floor/grass/snow,
-/area/survivalpod)
-"eC" = (
-/obj/item/paper/fluff/ruins/djstation{
-	name = "paper - 'Station Radio Frequencies'"
-	},
-/turf/closed/wall/mineral/gold,
-/area/survivalpod)
-"eU" = (
-/obj/structure/window/reinforced{
-	dir = 8
-	},
-/obj/effect/decal/remains/human,
+/obj/structure/table/wood/fancy/red,
+/obj/item/clothing/suit/cultrobes,
+/obj/item/clothing/shoes/cult,
 /turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"fn" = (
+/area/ai_monitored/turret_protected/ai)
+"bI" = (
 /obj/effect/turf_decal/tile/yellow,
 /obj/effect/turf_decal/tile/yellow{
 	dir = 1
@@ -153,314 +57,118 @@
 	dir = 4
 	},
 /obj/structure/table/wood/fancy/royalblack,
-/obj/item/reagent_containers/food/drinks/trophy/bronze_cup{
-	pixel_x = -3;
-	pixel_y = 12
-	},
-/obj/item/reagent_containers/food/drinks/trophy{
-	pixel_x = 7;
-	pixel_y = 12
-	},
+/obj/item/bikehorn/airhorn,
 /turf/open/floor/noslip,
-/area/survivalpod)
-"fE" = (
-/obj/item/reagent_containers/food/drinks/beer,
+/area/ai_monitored/turret_protected/ai)
+"bJ" = (
+/turf/closed/wall/mineral/wood/nonmetal,
+/area/ai_monitored/turret_protected/ai)
+"bR" = (
+/mob/living/simple_animal/butterfly,
+/obj/machinery/light{
+	dir = 4
+	},
+/obj/structure/sign/poster/contraband/kudzu{
+	pixel_x = 32
+	},
+/turf/open/floor/grass/fairy/green,
+/area/ai_monitored/turret_protected/ai)
+"bT" = (
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/cheesewedge/blue{
+	pixel_x = -3;
+	pixel_y = 9
+	},
+/obj/item/reagent_containers/food/snacks/cheesewedge/feta{
+	pixel_x = 3;
+	pixel_y = 7
+	},
+/obj/item/reagent_containers/food/snacks/cheesewedge/cheddar,
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"bY" = (
+/obj/structure/fireplace,
 /turf/open/floor/wood,
-/area/survivalpod)
-"fK" = (
+/area/ai_monitored/turret_protected/ai)
+"cb" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/grass/fairy/green,
+/area/ai_monitored/turret_protected/ai)
+"cs" = (
+/obj/structure/alien/weeds/node,
+/obj/structure/alien/weeds,
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"ct" = (
+/obj/structure/showcase/horrific_experiment,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"cK" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/table/wood/fancy/red,
+/obj/item/melee/cultblade/dagger,
 /turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"fW" = (
+/area/ai_monitored/turret_protected/ai)
+"dR" = (
 /obj/effect/spawner/lootdrop/clockcult,
 /obj/structure/chair/brass{
 	dir = 1
 	},
 /turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"gb" = (
-/obj/structure/window/reinforced{
-	dir = 8
-	},
-/obj/effect/rune/summon,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"gd" = (
-/obj/structure/table/wood/fancy,
-/obj/item/reagent_containers/food/snacks/store/cheesewheel/american,
-/obj/machinery/light,
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"gm" = (
-/obj/machinery/light{
-	dir = 1
-	},
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"gA" = (
-/turf/open/floor/grass/fairy/green,
-/area/survivalpod)
-"hg" = (
-/obj/effect/mob_spawn/human/plasmaman,
-/obj/machinery/light{
-	dir = 1
-	},
-/turf/open/floor/mineral/plasma,
-/area/survivalpod)
-"hh" = (
-/obj/structure/destructible/cult/forge,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"ho" = (
-/obj/structure/chair/brass{
-	dir = 1
-	},
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"hE" = (
-/obj/structure/noticeboard{
-	pixel_y = 32
-	},
-/obj/machinery/light{
-	dir = 1
-	},
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"hQ" = (
+/area/ai_monitored/turret_protected/ai)
+"ec" = (
+/obj/effect/spawner/structure/window/reinforced,
 /turf/open/floor/wood,
-/area/survivalpod)
-"hY" = (
-/obj/effect/rune/raise_dead,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"ix" = (
-/obj/effect/turf_decal/tile/yellow,
-/obj/effect/turf_decal/tile/yellow{
+/area/ai_monitored/turret_protected/ai)
+"ej" = (
+/obj/structure/table/bananium,
+/obj/structure/window/plasma/reinforced{
+	dir = 8
+	},
+/obj/structure/table/bananium,
+/obj/structure/window/plasma/reinforced{
 	dir = 1
 	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 4
-	},
-/obj/machinery/light/floor,
-/turf/open/floor/noslip,
-/area/survivalpod)
-"jb" = (
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"jO" = (
+/obj/item/clothing/shoes/clown_shoes/banana_shoes,
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"er" = (
+/obj/structure/alien/weeds/node,
 /obj/structure/bed/nest,
 /obj/structure/alien/weeds,
-/turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"kc" = (
-/obj/structure/destructible/cult/tome,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"kz" = (
-/obj/structure/alien/weeds/node,
-/obj/structure/alien/egg/burst,
 /obj/structure/alien/weeds,
 /turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"kG" = (
-/obj/machinery/light{
-	dir = 8
-	},
-/turf/open/floor/grass/fairy/green,
-/area/survivalpod)
-"kX" = (
+/area/ai_monitored/turret_protected/ai)
+"eH" = (
 /obj/item/grown/bananapeel,
-/obj/machinery/door/airlock/bananium,
 /turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"nf" = (
-/obj/structure/reagent_dispensers/watertank,
-/turf/open/floor/carpet/cyan,
-/area/survivalpod)
-"no" = (
-/obj/structure/flora/rock,
-/turf/open/floor/grass/snow,
-/area/survivalpod)
-"nt" = (
-/obj/effect/spawner/structure/window/bananium,
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"nL" = (
-/obj/structure/table/wood/fancy,
-/obj/item/reagent_containers/food/snacks/cheesewedge/feta{
-	pixel_x = 7;
-	pixel_y = -3
-	},
-/obj/item/reagent_containers/food/snacks/cheesewedge/american,
-/obj/item/reagent_containers/food/snacks/cheesewedge/goat{
-	pixel_x = -3;
-	pixel_y = 8
-	},
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"nU" = (
-/obj/machinery/door/airlock/public/glass{
-	name = "Central Access"
-	},
-/turf/open/floor/grass/snow,
-/area/survivalpod)
-"oh" = (
-/obj/machinery/status_display/ai_core,
-/turf/open/floor/circuit/green,
-/area/survivalpod)
-"oF" = (
-/obj/machinery/door/window/southleft{
-	dir = 8;
-	name = "Core Modules"
-	},
-/obj/effect/spawner/lootdrop/aimodule_harmless,
-/obj/effect/spawner/lootdrop/aimodule_neutral,
-/turf/open/floor/circuit/green,
-/area/survivalpod)
-"oS" = (
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"oV" = (
-/obj/effect/spawner/structure/window/reinforced,
-/obj/effect/turf_decal/tile/red{
-	dir = 1
-	},
-/obj/effect/turf_decal/tile/red{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/red{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/red,
-/turf/open/floor/white,
-/area/survivalpod)
-"pA" = (
-/obj/structure/alien/weeds/node,
-/obj/structure/alien/resin/membrane,
-/obj/structure/alien/weeds,
-/turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"pH" = (
+/area/ai_monitored/turret_protected/ai)
+"eL" = (
 /obj/machinery/computer/upload/ai{
 	dir = 8
 	},
 /turf/open/floor/circuit/green,
-/area/survivalpod)
-"pV" = (
-/obj/effect/decal/remains/human,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"pY" = (
-/obj/effect/decal/cleanable/blood/gibs/limb{
-	pixel_x = -8;
-	pixel_y = -1
-	},
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"qe" = (
-/obj/structure/alien/egg/burst,
-/obj/structure/alien/weeds,
-/turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"qw" = (
-/obj/effect/decal/cleanable/blood/tracks,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"rc" = (
-/obj/machinery/light/small{
-	dir = 1
-	},
-/turf/open/floor/wood,
-/area/survivalpod)
-"rl" = (
-/obj/effect/decal/cleanable/blood,
-/turf/open/floor/grass/snow,
-/area/survivalpod)
-"rP" = (
-/obj/structure/statue/cheese/cheesus,
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"rS" = (
-/obj/machinery/portable_atmospherics/canister/oxygen,
-/turf/open/floor/mineral/plasma,
-/area/survivalpod)
-"rV" = (
-/obj/machinery/light{
-	dir = 4
-	},
-/turf/open/floor/grass/fairy/green,
-/area/survivalpod)
-"si" = (
-/obj/structure/bed,
-/obj/item/bedsheet/red,
-/turf/open/floor/wood,
-/area/survivalpod)
-"sC" = (
+/area/ai_monitored/turret_protected/ai)
+"eO" = (
 /obj/effect/overlay/palmtree_r,
 /turf/open/floor/grass/fairy/green,
-/area/survivalpod)
-"sG" = (
-/obj/effect/spawner/lootdrop/clockcult,
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"sO" = (
-/obj/effect/decal/cleanable/blood/tracks{
-	dir = 5
-	},
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"sR" = (
-/obj/structure/table/bananium,
-/obj/structure/window/plasma/reinforced{
-	dir = 4
-	},
-/obj/structure/window/plasma/reinforced{
+/area/ai_monitored/turret_protected/ai)
+"eX" = (
+/obj/structure/table/wood/fancy/red,
+/obj/structure/window/reinforced{
 	dir = 1
 	},
-/obj/item/reagent_containers/spray/waterflower/lube,
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"sT" = (
-/obj/machinery/door/airlock/clockwork/brass,
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"te" = (
-/obj/structure/alien/weeds/node,
-/obj/machinery/door/airlock/plasma,
-/obj/structure/alien/weeds,
-/obj/machinery/light/floor,
-/turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"ty" = (
-/obj/structure/table/wood,
-/obj/item/toy/crayon/spraycan{
-	pixel_y = 9
-	},
-/obj/item/toy/crayon/spraycan{
-	pixel_x = -5;
-	pixel_y = 3
-	},
-/obj/item/toy/crayon/spraycan{
-	pixel_x = 6;
-	pixel_y = 3
-	},
-/turf/open/floor/wood,
-/area/survivalpod)
-"uh" = (
+/obj/item/tome,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"fm" = (
 /obj/effect/turf_decal/tile/yellow,
 /obj/effect/turf_decal/tile/yellow{
 	dir = 1
@@ -489,612 +197,8 @@
 	pixel_y = 10
 	},
 /turf/open/floor/noslip,
-/area/survivalpod)
-"un" = (
-/obj/item/stack/ore/bananium,
-/obj/machinery/light{
-	dir = 1
-	},
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"ur" = (
-/obj/structure/showcase/horrific_experiment,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"uA" = (
-/obj/structure/window/reinforced{
-	dir = 4
-	},
-/obj/structure/table/wood/fancy/red,
-/obj/item/soulstone,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"uD" = (
-/obj/effect/turf_decal/siding/wood/corner{
-	dir = 8
-	},
-/turf/open/floor/carpet,
-/area/survivalpod)
-"uN" = (
-/turf/open/floor/mineral/plasma,
-/area/survivalpod)
-"uP" = (
-/obj/effect/turf_decal/tile/yellow,
-/obj/effect/turf_decal/tile/yellow{
-	dir = 1
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 4
-	},
-/obj/structure/table/wood/fancy/royalblack,
-/obj/item/bikehorn/golden{
-	pixel_x = -6;
-	pixel_y = 9
-	},
-/turf/open/floor/noslip,
-/area/survivalpod)
-"vI" = (
-/obj/structure/fireplace,
-/turf/open/floor/wood,
-/area/survivalpod)
-"vT" = (
-/obj/item/stack/ore/bananium,
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"wH" = (
-/obj/effect/decal/cleanable/blood/gibs{
-	pixel_x = -4;
-	pixel_y = 12
-	},
-/obj/effect/decal/remains/human,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"wJ" = (
-/mob/living/simple_animal/butterfly,
-/obj/machinery/light{
-	dir = 4
-	},
-/turf/open/floor/grass/fairy/green,
-/area/survivalpod)
-"xc" = (
-/obj/effect/spawner/structure/window/reinforced,
-/turf/open/floor/carpet/cyan,
-/area/survivalpod)
-"xp" = (
-/obj/machinery/light/small{
-	dir = 8
-	},
-/obj/structure/flora/rock/pile/icy,
-/turf/open/floor/grass/snow,
-/area/survivalpod)
-"xD" = (
-/obj/structure/easel,
-/obj/item/canvas/twentythreeXtwentythree,
-/turf/open/floor/wood,
-/area/survivalpod)
-"xR" = (
-/obj/machinery/portable_atmospherics/canister/toxins,
-/turf/open/floor/mineral/plasma,
-/area/survivalpod)
-"yx" = (
-/obj/structure/alien/weeds/node,
-/obj/structure/bed/nest,
-/obj/structure/alien/weeds,
-/obj/structure/alien/weeds,
-/turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"zn" = (
-/obj/structure/table/wood,
-/obj/item/flashlight/lamp/green{
-	pixel_x = -6;
-	pixel_y = 3
-	},
-/obj/item/pen{
-	pixel_x = 4;
-	pixel_y = 2
-	},
-/turf/open/floor/wood,
-/area/survivalpod)
-"zv" = (
-/obj/machinery/light{
-	dir = 1
-	},
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"zP" = (
-/obj/effect/turf_decal/siding/wood{
-	dir = 8
-	},
-/turf/open/floor/carpet,
-/area/survivalpod)
-"zX" = (
-/obj/structure/chair/office/dark{
-	dir = 4
-	},
-/obj/item/extinguisher,
-/turf/open/floor/white,
-/area/survivalpod)
-"Aj" = (
-/obj/structure/table/wood/fancy,
-/obj/item/reagent_containers/food/snacks/cheesewedge/american,
-/obj/item/reagent_containers/food/snacks/cheesewedge/feta{
-	pixel_x = 6;
-	pixel_y = 8
-	},
-/obj/item/reagent_containers/food/snacks/cheesewedge/parmesan{
-	pixel_x = -6;
-	pixel_y = 9
-	},
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"AJ" = (
-/obj/structure/chair/office/dark{
-	dir = 4
-	},
-/obj/item/extinguisher,
-/turf/open/floor/wood,
-/area/survivalpod)
-"AL" = (
-/turf/closed/wall/mineral/wood/nonmetal,
-/area/survivalpod)
-"AV" = (
-/obj/structure/window/reinforced{
-	dir = 1
-	},
-/obj/structure/table/wood/fancy/red,
-/obj/structure/window/reinforced{
-	dir = 8
-	},
-/obj/item/clothing/suit/cultrobes,
-/obj/item/clothing/shoes/cult,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"BH" = (
-/obj/structure/reagent_dispensers/watertank,
-/turf/open/floor/wood,
-/area/survivalpod)
-"Ce" = (
-/obj/structure/table/bananium,
-/obj/structure/window/plasma/reinforced{
-	dir = 4
-	},
-/obj/structure/window/plasma/reinforced,
-/obj/item/grenade/spawnergrenade/clown,
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"Cj" = (
-/obj/structure/bookcase/random/adult,
-/turf/open/floor/carpet,
-/area/survivalpod)
-"Ct" = (
-/obj/machinery/light,
-/turf/open/floor/mineral/plasma,
-/area/survivalpod)
-"Cz" = (
-/obj/machinery/light,
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"Df" = (
-/obj/structure/table/wood/fancy,
-/obj/item/reagent_containers/food/snacks/cracker,
-/obj/item/reagent_containers/food/snacks/cracker,
-/obj/item/reagent_containers/food/snacks/cracker,
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"DQ" = (
-/obj/machinery/light,
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"DZ" = (
-/obj/effect/rune/teleport,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"Eb" = (
-/turf/closed/wall/mineral/abductor,
-/area/survivalpod)
-"Ep" = (
-/obj/structure/table/bananium,
-/obj/structure/window/plasma/reinforced,
-/obj/structure/window/plasma/reinforced{
-	dir = 8
-	},
-/obj/item/gun/magic/staff/honk,
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"EH" = (
-/obj/structure/table/wood/fancy/red,
-/obj/structure/window/reinforced{
-	dir = 1
-	},
-/obj/item/tome,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"EK" = (
-/obj/structure/chair/wood{
-	dir = 4
-	},
-/turf/open/floor/wood,
-/area/survivalpod)
-"EW" = (
-/turf/closed/wall/mineral/bronze,
-/area/survivalpod)
-"Fi" = (
-/obj/machinery/porta_turret/lasertag/red,
-/turf/open/floor/circuit/green,
-/area/survivalpod)
-"Fn" = (
-/obj/structure/flora/rock,
-/turf/open/floor/grass/fairy/green,
-/area/survivalpod)
-"FI" = (
-/obj/effect/spawner/structure/window/reinforced,
-/turf/open/floor/black,
-/area/survivalpod)
-"FQ" = (
-/obj/structure/noticeboard{
-	pixel_y = 32
-	},
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"FU" = (
-/obj/structure/alien/weeds/node,
-/obj/structure/alien/weeds,
-/obj/structure/alien/egg/burst,
-/turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"GA" = (
-/obj/effect/rune/narsie{
-	color = "#ff0000";
-	used = 1
-	},
-/obj/effect/decal/remains/human,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"GB" = (
-/obj/structure/table/wood/fancy,
-/obj/item/reagent_containers/food/snacks/store/cheesewheel/mozzarella,
-/obj/machinery/light,
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"GH" = (
-/turf/open/floor/grass/snow,
-/area/survivalpod)
-"GX" = (
-/obj/item/radio/intercom/ratvar{
-	pixel_x = -32
-	},
-/obj/structure/chair/brass{
-	dir = 8
-	},
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"Hj" = (
-/obj/item/weldingtool/experimental,
-/obj/machinery/portable_atmospherics/canister/tritium,
-/turf/open/floor/mineral/plasma,
-/area/survivalpod)
-"HX" = (
-/obj/structure/chair/office/dark{
-	dir = 4
-	},
-/obj/item/extinguisher,
-/obj/effect/turf_decal/tile/red{
-	dir = 1
-	},
-/obj/effect/turf_decal/tile/red{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/red,
-/obj/effect/turf_decal/tile/red{
-	dir = 8
-	},
-/turf/open/floor/white,
-/area/survivalpod)
-"Ig" = (
-/turf/closed/wall/mineral/plasma,
-/area/survivalpod)
-"Ip" = (
-/obj/structure/alien/weeds,
-/turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"Ix" = (
-/obj/structure/table/wood/fancy,
-/obj/item/reagent_containers/food/snacks/store/cheesewheel/blue,
-/obj/machinery/light{
-	dir = 1
-	},
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"IE" = (
-/obj/structure/closet/abductor,
-/obj/item/wirecutters/abductor,
-/obj/item/weldingtool/abductor,
-/obj/machinery/light,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"JW" = (
-/obj/effect/decal/cleanable/blood/gibs/torso,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"Kd" = (
-/obj/structure/barricade/wooden/crude/snow,
-/turf/closed/wall/mineral/wood/nonmetal,
-/area/survivalpod)
-"Kk" = (
-/obj/machinery/door/airlock/diamond,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"Kr" = (
-/obj/machinery/abductor/console,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"KC" = (
-/obj/structure/noticeboard{
-	pixel_y = 32
-	},
-/obj/machinery/door/airlock/clockwork/brass,
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"KK" = (
-/obj/effect/overlay/palmtree_l,
-/turf/open/floor/grass/fairy/green,
-/area/survivalpod)
-"Lm" = (
-/obj/structure/alien/weeds/node,
-/obj/structure/alien/weeds,
-/obj/machinery/door/airlock/research,
-/obj/machinery/light/floor,
-/obj/structure/alien/weeds,
-/turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"Lo" = (
-/turf/closed/wall/mineral/bananium,
-/area/survivalpod)
-"Lz" = (
-/obj/item/weldingtool/experimental,
-/turf/open/floor/mineral/plasma,
-/area/survivalpod)
-"MR" = (
-/turf/closed/wall/mineral/gold,
-/area/survivalpod)
-"Na" = (
-/obj/effect/decal/remains/human,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"Ng" = (
-/obj/structure/alien/weeds/node,
-/obj/structure/alien/weeds,
-/turf/open/floor/grass/fakebasalt,
-/area/survivalpod)
-"Ny" = (
-/obj/structure/chair/office/dark{
-	dir = 4
-	},
-/obj/item/extinguisher,
-/turf/open/floor/carpet/cyan,
-/area/survivalpod)
-"Nz" = (
-/obj/structure/table/wood/fancy/red,
-/obj/structure/window/reinforced{
-	dir = 8
-	},
-/obj/item/melee/cultblade,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"OM" = (
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"Pc" = (
-/obj/structure/table/wood/fancy,
-/obj/item/reagent_containers/food/snacks/store/cheesewheel/american,
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"Pm" = (
-/obj/machinery/door/window{
-	dir = 8;
-	name = "High-Risk Modules"
-	},
-/obj/effect/spawner/lootdrop/aimodule_harmful,
-/obj/effect/spawner/lootdrop/aimodule_harmful,
-/turf/open/floor/circuit/green,
-/area/survivalpod)
-"Ps" = (
-/obj/machinery/door/airlock/plasma,
-/turf/open/floor/mineral/plasma,
-/area/survivalpod)
-"PX" = (
-/obj/machinery/door/airlock/cult,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"Qv" = (
-/obj/effect/turf_decal/tile/yellow,
-/obj/effect/turf_decal/tile/yellow{
-	dir = 1
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/yellow{
-	dir = 4
-	},
-/obj/structure/table/wood/fancy/royalblack,
-/obj/item/bikehorn/airhorn,
-/turf/open/floor/noslip,
-/area/survivalpod)
-"Qy" = (
-/obj/effect/spawner/lootdrop/clockcult,
-/obj/structure/noticeboard{
-	pixel_y = 32
-	},
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"QD" = (
-/obj/machinery/light/floor,
-/turf/open/floor/circuit/green,
-/area/survivalpod)
-"RB" = (
-/obj/effect/spawner/structure/window/reinforced,
-/turf/open/floor/wood,
-/area/survivalpod)
-"RN" = (
-/turf/closed/wall/mineral/cult,
-/area/survivalpod)
-"Sv" = (
-/obj/structure/destructible/cult/pylon,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"SK" = (
-/obj/item/restraints/legcuffs/beartrap,
-/turf/open/floor/grass/snow,
-/area/survivalpod)
-"SL" = (
-/obj/structure/fluff/grave,
-/turf/open/floor/grass/snow,
-/area/survivalpod)
-"SQ" = (
-/obj/structure/fluff/fokoff_sign,
-/obj/item/restraints/legcuffs/beartrap,
-/turf/open/floor/grass/snow,
-/area/survivalpod)
-"SV" = (
-/obj/structure/table/abductor,
-/obj/item/stack/sheet/mineral/abductor,
-/obj/structure/window/paperframe,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"Tm" = (
-/obj/machinery/light{
-	dir = 1
-	},
-/turf/open/floor/carpet,
-/area/survivalpod)
-"Tp" = (
-/mob/living/simple_animal/butterfly,
-/obj/machinery/light{
-	dir = 8
-	},
-/turf/open/floor/grass/fairy/green,
-/area/survivalpod)
-"Tw" = (
-/obj/structure/chair/brass{
-	dir = 4
-	},
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"TE" = (
-/obj/effect/rune/convert,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"TX" = (
-/obj/item/stack/ore/bananium,
-/obj/machinery/light,
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"Un" = (
-/obj/item/reagent_containers/food/snacks/grown/banana,
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"Ux" = (
-/obj/structure/reagent_dispensers/watertank,
-/turf/open/floor/white,
-/area/survivalpod)
-"Uz" = (
-/obj/structure/displaycase/trophy,
-/turf/open/floor/carpet,
-/area/survivalpod)
-"UY" = (
-/turf/open/floor/circuit/green,
-/area/survivalpod)
-"Vb" = (
-/obj/structure/table/wood/fancy,
-/obj/item/reagent_containers/food/snacks/cheesewedge/american{
-	pixel_x = 7;
-	pixel_y = 12
-	},
-/obj/item/reagent_containers/food/snacks/cheesewedge/mozzarella{
-	pixel_x = -2;
-	pixel_y = 4
-	},
-/obj/item/reagent_containers/food/snacks/cheesewedge/blue{
-	pixel_x = 5;
-	pixel_y = 1
-	},
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"Vh" = (
-/obj/machinery/abductor/gland_dispenser,
-/turf/open/floor/plating/abductor,
-/area/survivalpod)
-"VE" = (
-/obj/structure/bookcase/random/nonfiction,
-/turf/open/floor/carpet,
-/area/survivalpod)
-"VL" = (
-/obj/effect/mob_spawn/human/plasmaman,
-/turf/open/floor/mineral/plasma,
-/area/survivalpod)
-"VW" = (
-/obj/effect/turf_decal/siding/wood,
-/obj/structure/chair/comfy/black,
-/turf/open/floor/carpet,
-/area/survivalpod)
-"Wz" = (
-/obj/structure/mecha_wreckage/honker{
-	anchored = 1
-	},
-/turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"WW" = (
-/obj/structure/window/reinforced{
-	dir = 8
-	},
-/obj/structure/table/wood/fancy/red,
-/obj/item/melee/cultblade/dagger,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"Xl" = (
-/obj/item/radio/intercom/ratvar{
-	pixel_x = 32
-	},
-/turf/open/floor/clockwork/reebe,
-/area/survivalpod)
-"Xy" = (
-/obj/structure/window/reinforced{
-	dir = 4
-	},
-/obj/structure/table/wood/fancy/red,
-/obj/item/clothing/suit/cultrobes,
-/obj/item/clothing/shoes/cult,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"XF" = (
+/area/ai_monitored/turret_protected/ai)
+"fu" = (
 /obj/effect/turf_decal/tile/yellow,
 /obj/effect/turf_decal/tile/yellow{
 	dir = 1
@@ -1127,57 +231,197 @@
 	pixel_y = 12
 	},
 /turf/open/floor/noslip,
-/area/survivalpod)
-"XG" = (
-/obj/structure/table/wood/fancy/red,
-/obj/item/clothing/suit/space/hardsuit/cult,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"Yq" = (
-/mob/living/simple_animal/butterfly,
+/area/ai_monitored/turret_protected/ai)
+"fz" = (
 /turf/open/floor/grass/fairy/green,
-/area/survivalpod)
-"Yr" = (
-/obj/structure/table/wood/fancy,
-/obj/item/reagent_containers/food/snacks/cheesewedge/blue{
-	pixel_x = -3;
-	pixel_y = 9
-	},
-/obj/item/reagent_containers/food/snacks/cheesewedge/feta{
-	pixel_x = 3;
-	pixel_y = 7
-	},
-/obj/item/reagent_containers/food/snacks/cheesewedge/cheddar,
-/obj/machinery/light{
+/area/ai_monitored/turret_protected/ai)
+"fY" = (
+/obj/structure/window/reinforced{
 	dir = 1
 	},
-/turf/open/floor/carpet/orange,
-/area/survivalpod)
-"YA" = (
-/obj/structure/window/plastitanium,
-/turf/open/floor/mineral/plasma,
-/area/survivalpod)
-"YE" = (
+/obj/structure/table/wood/fancy/red,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/item/clothing/suit/cultrobes,
+/obj/item/clothing/shoes/cult,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"gn" = (
+/obj/structure/table/wood,
+/obj/item/flashlight/lamp/green{
+	pixel_x = -6;
+	pixel_y = 3
+	},
+/obj/item/pen{
+	pixel_x = 4;
+	pixel_y = 2
+	},
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"gD" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"gI" = (
 /obj/machinery/door/airlock/bananium,
 /obj/item/grown/bananapeel,
 /turf/open/floor/mineral/bananium,
-/area/survivalpod)
-"YN" = (
-/obj/item/aiModule/supplied/freeform,
-/turf/open/floor/circuit/green,
-/area/survivalpod)
-"YX" = (
-/obj/structure/window/reinforced{
-	dir = 4
+/area/ai_monitored/turret_protected/ai)
+"hq" = (
+/obj/machinery/door/window{
+	dir = 8;
+	name = "High-Risk Modules"
 	},
-/obj/structure/window/reinforced{
+/obj/effect/spawner/lootdrop/aimodule_harmful,
+/obj/effect/spawner/lootdrop/aimodule_harmful,
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"hC" = (
+/obj/machinery/light,
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"hD" = (
+/obj/structure/destructible/cult/tome,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"hZ" = (
+/obj/structure/alien/weeds/node,
+/obj/structure/alien/egg/burst,
+/obj/structure/alien/weeds,
+/obj/structure/sign/poster/contraband/busty_backdoor_xeno_babes_6{
+	pixel_x = -32
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"ic" = (
+/obj/structure/bookcase/random/nonfiction,
+/turf/open/floor/carpet,
+/area/ai_monitored/turret_protected/ai)
+"iy" = (
+/obj/item/clothing/head/bearpelt,
+/obj/item/reagent_containers/food/snacks/meat/slab/bear,
+/obj/item/reagent_containers/food/snacks/meat/slab/bear,
+/obj/item/reagent_containers/food/snacks/meat/slab/bear,
+/obj/item/reagent_containers/food/snacks/meat/slab/bear,
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
+"iZ" = (
+/obj/effect/rune/convert,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"jp" = (
+/obj/effect/turf_decal/tile/yellow,
+/obj/effect/turf_decal/tile/yellow{
 	dir = 1
 	},
-/obj/structure/table/wood/fancy/red,
-/obj/item/melee/cultblade/dagger,
-/turf/open/floor/mineral/plastitanium/red,
-/area/survivalpod)
-"Zj" = (
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/structure/sign/poster/official/nanotrasen_logo{
+	pixel_y = 32
+	},
+/turf/open/floor/noslip,
+/area/ai_monitored/turret_protected/ai)
+"jO" = (
+/turf/closed/wall/mineral/gold,
+/area/ai_monitored/turret_protected/ai)
+"jU" = (
+/obj/machinery/status_display/ai_core,
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"kt" = (
+/mob/living/simple_animal/butterfly,
+/turf/open/floor/grass/fairy/green,
+/area/ai_monitored/turret_protected/ai)
+"kA" = (
+/obj/structure/fluff/grave,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
+"kD" = (
+/turf/closed/wall/mineral/cult,
+/area/ai_monitored/turret_protected/ai)
+"lc" = (
+/obj/item/radio/intercom/ratvar{
+	pixel_x = 32
+	},
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"lv" = (
+/obj/item/aicard,
+/obj/machinery/light/floor,
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"lQ" = (
+/obj/structure/chair/office/dark{
+	dir = 4
+	},
+/obj/item/extinguisher,
+/obj/effect/turf_decal/tile/red{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/red{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/red,
+/obj/effect/turf_decal/tile/red{
+	dir = 8
+	},
+/turf/open/floor/white,
+/area/ai_monitored/turret_protected/ai)
+"mm" = (
+/obj/effect/spawner/lootdrop/clockcult,
+/obj/structure/noticeboard{
+	pixel_y = 32
+	},
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"mr" = (
+/obj/structure/alien/weeds,
+/obj/structure/sign/poster/contraband/lusty_xenomorph{
+	pixel_x = 32
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"mv" = (
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/cheesewedge/feta{
+	pixel_x = 7;
+	pixel_y = -3
+	},
+/obj/item/reagent_containers/food/snacks/cheesewedge/american,
+/obj/item/reagent_containers/food/snacks/cheesewedge/goat{
+	pixel_x = -3;
+	pixel_y = 8
+	},
+/obj/structure/sign/poster/contraband/eat{
+	pixel_y = -32
+	},
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"ni" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/carpet/cyan,
+/area/ai_monitored/turret_protected/ai)
+"no" = (
 /obj/effect/turf_decal/tile/yellow,
 /obj/effect/turf_decal/tile/yellow{
 	dir = 1
@@ -1201,666 +445,1553 @@
 	dir = 4
 	},
 /turf/open/floor/noslip,
-/area/survivalpod)
-"Zv" = (
+/area/ai_monitored/turret_protected/ai)
+"nx" = (
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"oe" = (
+/obj/structure/destructible/cult/talisman,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"oj" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/effect/rune/summon,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"oD" = (
+/obj/structure/table/wood/fancy/red,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/item/melee/cultblade,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"oL" = (
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/cracker,
+/obj/item/reagent_containers/food/snacks/cracker,
+/obj/item/reagent_containers/food/snacks/cracker,
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"pe" = (
+/obj/structure/destructible/cult/pylon,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"pj" = (
+/obj/structure/bed,
+/obj/item/bedsheet/red,
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"pH" = (
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/cheesewedge/american,
+/obj/item/reagent_containers/food/snacks/cheesewedge/feta{
+	pixel_x = 6;
+	pixel_y = 8
+	},
+/obj/item/reagent_containers/food/snacks/cheesewedge/parmesan{
+	pixel_x = -6;
+	pixel_y = 9
+	},
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"pK" = (
+/obj/structure/displaycase/trophy,
 /turf/open/floor/carpet,
-/area/survivalpod)
-"ZB" = (
-/mob/living/simple_animal/butterfly,
-/obj/structure/flora/rock,
+/area/ai_monitored/turret_protected/ai)
+"pL" = (
+/obj/structure/closet/abductor,
+/obj/item/wirecutters/abductor,
+/obj/item/weldingtool/abductor,
+/obj/machinery/light,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"qt" = (
+/obj/structure/chair/office/dark{
+	dir = 4
+	},
+/obj/item/extinguisher,
+/turf/open/floor/carpet/cyan,
+/area/ai_monitored/turret_protected/ai)
+"qv" = (
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/store/cheesewheel/mozzarella,
+/obj/machinery/light,
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"qO" = (
+/obj/structure/table/abductor,
+/obj/item/stack/sheet/mineral/abductor,
+/obj/structure/window/paperframe,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"qQ" = (
+/obj/machinery/light/floor,
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"ri" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/carpet,
+/area/ai_monitored/turret_protected/ai)
+"rA" = (
+/obj/effect/overlay/palmtree_l,
 /turf/open/floor/grass/fairy/green,
-/area/survivalpod)
-"ZF" = (
+/area/ai_monitored/turret_protected/ai)
+"rB" = (
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
+"rH" = (
+/obj/machinery/power/apc/highcap{
+	dir = 1;
+	name = "AI Chamber APC";
+	pixel_y = 23
+	},
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"rK" = (
+/obj/item/radio/intercom/ratvar{
+	pixel_x = -32
+	},
+/obj/structure/chair/brass{
+	dir = 8
+	},
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"rP" = (
+/obj/structure/table/abductor,
+/obj/item/paper/guides/antag/abductor,
+/obj/structure/window/paperframe,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"sx" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Central Access"
+	},
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
+"sH" = (
+/obj/effect/rune/teleport,
+/obj/structure/sign/poster/contraband/rebels_unite{
+	pixel_y = -32
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"sT" = (
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
+"sX" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/obj/structure/sign/poster/contraband/ambrosia_vulgaris{
+	pixel_x = -32
+	},
+/turf/open/floor/grass/fairy/green,
+/area/ai_monitored/turret_protected/ai)
+"ta" = (
+/obj/structure/flora/rock,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
+"tl" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"tu" = (
 /obj/structure/fluff/fokoff_sign,
 /turf/open/floor/grass/snow,
-/area/survivalpod)
+/area/ai_monitored/turret_protected/ai)
+"tx" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"tK" = (
+/obj/structure/noticeboard{
+	pixel_y = 32
+	},
+/obj/machinery/door/airlock/clockwork/brass,
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"tN" = (
+/obj/effect/mob_spawn/human/plasmaman,
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"tS" = (
+/obj/item/restraints/legcuffs/beartrap,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
+"uo" = (
+/obj/machinery/door/airlock/gold,
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"uK" = (
+/obj/machinery/light,
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"uM" = (
+/turf/open/floor/carpet,
+/area/ai_monitored/turret_protected/ai)
+"vm" = (
+/obj/structure/table/bananium,
+/obj/structure/window/plasma/reinforced,
+/obj/structure/window/plasma/reinforced{
+	dir = 8
+	},
+/obj/item/gun/magic/staff/honk,
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"vw" = (
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/store/cheesewheel/blue,
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"vC" = (
+/obj/structure/table/bananium,
+/obj/structure/window/plasma/reinforced{
+	dir = 4
+	},
+/obj/structure/window/plasma/reinforced{
+	dir = 1
+	},
+/obj/item/reagent_containers/spray/waterflower/lube,
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"vE" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 5
+	},
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"wg" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/table/wood/fancy/red,
+/obj/item/melee/cultblade/dagger,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"wh" = (
+/obj/structure/alien/weeds/node,
+/obj/structure/alien/weeds,
+/obj/structure/sign/poster/official/no_erp{
+	pixel_y = 32
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"wk" = (
+/obj/structure/table/wood,
+/obj/item/toy/crayon/spraycan{
+	pixel_y = 9
+	},
+/obj/item/toy/crayon/spraycan{
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/obj/item/toy/crayon/spraycan{
+	pixel_x = 6;
+	pixel_y = 3
+	},
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"wr" = (
+/obj/structure/flora/rock,
+/turf/open/floor/grass/fairy/green,
+/area/ai_monitored/turret_protected/ai)
+"wu" = (
+/obj/structure/alien/weeds/node,
+/obj/structure/alien/weeds,
+/obj/structure/alien/egg/burst,
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"wy" = (
+/obj/structure/sign/poster/contraband/borg_fancy_1{
+	pixel_y = 32
+	},
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"wF" = (
+/obj/structure/chair/office/dark{
+	dir = 4
+	},
+/obj/item/extinguisher,
+/turf/open/floor/white,
+/area/ai_monitored/turret_protected/ai)
+"xd" = (
+/obj/structure/chair/brass{
+	dir = 4
+	},
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"xK" = (
+/obj/structure/bookcase/random/adult,
+/turf/open/floor/carpet,
+/area/ai_monitored/turret_protected/ai)
+"yN" = (
+/obj/structure/table/wood,
+/obj/item/storage/crayons{
+	pixel_x = -3;
+	pixel_y = 8
+	},
+/obj/item/storage/crayons{
+	pixel_x = 2
+	},
+/obj/machinery/light,
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"yP" = (
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"yV" = (
+/obj/machinery/door/airlock/cult,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"zq" = (
+/obj/structure/alien/weeds/node,
+/obj/structure/alien/egg/burst,
+/obj/structure/alien/weeds,
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"zQ" = (
+/mob/living/simple_animal/butterfly,
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/grass/fairy/green,
+/area/ai_monitored/turret_protected/ai)
+"An" = (
+/obj/item/reagent_containers/food/drinks/beer,
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"Aw" = (
+/obj/structure/alien/weeds/node,
+/obj/structure/alien/weeds,
+/obj/machinery/door/airlock/research,
+/obj/machinery/light/floor,
+/obj/structure/alien/weeds,
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"AB" = (
+/obj/effect/turf_decal/tile/yellow,
+/obj/effect/turf_decal/tile/yellow{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/structure/table/wood/fancy/royalblack,
+/obj/item/bikehorn/golden{
+	pixel_x = -6;
+	pixel_y = 9
+	},
+/turf/open/floor/noslip,
+/area/ai_monitored/turret_protected/ai)
+"AN" = (
+/obj/machinery/door/airlock/clockwork/brass,
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"Be" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/chair/comfy/black,
+/turf/open/floor/carpet,
+/area/ai_monitored/turret_protected/ai)
+"Bo" = (
+/obj/structure/alien/weeds/node,
+/obj/structure/alien/weeds,
+/obj/structure/alien/resin/wall,
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"Bz" = (
+/obj/item/reagent_containers/food/snacks/grown/banana,
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"BF" = (
+/obj/structure/window/plastitanium,
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"BG" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"BR" = (
+/obj/structure/window/reinforced/clockwork/fulltile,
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"BU" = (
+/obj/item/paper/fluff/ruins/djstation{
+	name = "paper - 'Station Radio Frequencies'"
+	},
+/turf/closed/wall/mineral/gold,
+/area/ai_monitored/turret_protected/ai)
+"Ca" = (
+/obj/structure/alien/weeds/node,
+/obj/structure/alien/resin/wall,
+/obj/structure/alien/weeds,
+/obj/structure/alien/weeds,
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"Cr" = (
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/white,
+/area/ai_monitored/turret_protected/ai)
+"CB" = (
+/obj/effect/decal/cleanable/blood/gibs{
+	pixel_x = -4;
+	pixel_y = 12
+	},
+/obj/effect/decal/remains/human,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"CG" = (
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"CO" = (
+/obj/structure/sign/poster/contraband/have_a_puff{
+	pixel_y = -32
+	},
+/turf/open/floor/grass/fairy/green,
+/area/ai_monitored/turret_protected/ai)
+"Db" = (
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"DP" = (
+/turf/closed/wall/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"DQ" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"Ej" = (
+/obj/effect/decal/cleanable/blood/gibs/limb{
+	pixel_x = -8;
+	pixel_y = -1
+	},
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"EN" = (
+/obj/structure/alien/weeds/node,
+/obj/machinery/door/airlock/plasma,
+/obj/structure/alien/weeds,
+/obj/machinery/light/floor,
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"ER" = (
+/obj/structure/chair/office/dark{
+	dir = 4
+	},
+/obj/item/extinguisher,
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"EW" = (
+/obj/structure/chair/wood{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"FN" = (
+/obj/effect/decal/cleanable/blood/gibs/torso,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"Hf" = (
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"Hp" = (
+/obj/effect/spawner/structure/window/bananium,
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"Ia" = (
+/obj/machinery/abductor/console,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"Ii" = (
+/obj/machinery/portable_atmospherics/canister/toxins,
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"IB" = (
+/obj/structure/easel,
+/obj/item/canvas/twentythreeXtwentythree,
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"Kd" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/effect/decal/remains/human,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"Kn" = (
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/cheesewedge/american{
+	pixel_x = 7;
+	pixel_y = 12
+	},
+/obj/item/reagent_containers/food/snacks/cheesewedge/mozzarella{
+	pixel_x = -2;
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/food/snacks/cheesewedge/blue{
+	pixel_x = 5;
+	pixel_y = 1
+	},
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"KG" = (
+/obj/effect/mob_spawn/human/plasmaman,
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"La" = (
+/obj/effect/turf_decal/tile/yellow,
+/obj/effect/turf_decal/tile/yellow{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/structure/table/wood/fancy/royalblack,
+/obj/item/reagent_containers/food/drinks/trophy/bronze_cup{
+	pixel_x = -3;
+	pixel_y = 12
+	},
+/obj/item/reagent_containers/food/drinks/trophy{
+	pixel_x = 7;
+	pixel_y = 12
+	},
+/turf/open/floor/noslip,
+/area/ai_monitored/turret_protected/ai)
+"Lg" = (
+/obj/structure/table/bananium,
+/obj/structure/window/plasma/reinforced{
+	dir = 4
+	},
+/obj/structure/window/plasma/reinforced,
+/obj/item/grenade/spawnergrenade/clown,
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"Lx" = (
+/obj/structure/sign/poster/official/state_laws{
+	pixel_y = 32
+	},
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"Lz" = (
+/obj/machinery/light,
+/obj/structure/sign/poster/official/walk{
+	pixel_y = -32
+	},
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"LP" = (
+/obj/structure/easel,
+/obj/item/canvas/twentythreeXnineteen,
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"Mp" = (
+/obj/structure/barricade/wooden/crude/snow,
+/turf/closed/wall/mineral/wood/nonmetal,
+/area/ai_monitored/turret_protected/ai)
+"Mx" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"MH" = (
+/obj/item/grown/bananapeel,
+/obj/machinery/door/airlock/bananium,
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"MK" = (
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/store/cheesewheel/american,
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"MN" = (
+/obj/structure/table/wood,
+/obj/item/storage/pill_bottle/dice,
+/obj/machinery/light,
+/turf/open/floor/wood,
+/area/ai_monitored/turret_protected/ai)
+"MO" = (
+/obj/item/weldingtool/experimental,
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"MV" = (
+/obj/structure/bed/nest,
+/obj/structure/alien/weeds,
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"Ns" = (
+/obj/structure/fluff/fokoff_sign,
+/obj/item/restraints/legcuffs/beartrap,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
+"Nz" = (
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"NI" = (
+/obj/item/stack/ore/bananium,
+/obj/machinery/light,
+/obj/structure/sign/poster/contraband/clown{
+	pixel_y = -32
+	},
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"Or" = (
+/obj/machinery/door/airlock/diamond,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"OA" = (
+/obj/structure/alien/weeds/node,
+/obj/structure/alien/resin/membrane,
+/obj/structure/alien/weeds,
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"OC" = (
+/obj/structure/sign/poster/contraband/power{
+	pixel_y = -32
+	},
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"OP" = (
+/obj/machinery/porta_turret/lasertag/red,
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"OS" = (
+/turf/closed/wall/mineral/abductor,
+/area/ai_monitored/turret_protected/ai)
+"Pa" = (
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"Pk" = (
+/obj/item/aiModule/supplied/freeform,
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"Po" = (
+/obj/structure/mecha_wreckage/honker{
+	anchored = 1
+	},
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"Pq" = (
+/obj/structure/statue/cheese/cheesus,
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"PH" = (
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"PK" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/obj/structure/sign/poster/official/bless_this_spess{
+	pixel_y = 32
+	},
+/turf/open/floor/carpet,
+/area/ai_monitored/turret_protected/ai)
+"QP" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/bookcase/random/reference,
+/turf/open/floor/carpet,
+/area/ai_monitored/turret_protected/ai)
+"Sa" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/carpet,
+/area/ai_monitored/turret_protected/ai)
+"Sg" = (
+/obj/effect/rune/raise_dead,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"Si" = (
+/obj/item/stack/ore/bananium,
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"Sr" = (
+/obj/effect/turf_decal/tile/yellow,
+/obj/effect/turf_decal/tile/yellow{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/noslip,
+/area/ai_monitored/turret_protected/ai)
+"SK" = (
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/store/cheesewheel/american,
+/obj/machinery/light,
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"Tl" = (
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"Tt" = (
+/obj/structure/noticeboard{
+	pixel_y = 32
+	},
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"TF" = (
+/obj/structure/sign/poster/official/firstsingularity{
+	pixel_y = -32
+	},
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"TH" = (
+/obj/structure/chair/brass{
+	dir = 1
+	},
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"Ul" = (
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/carpet/cyan,
+/area/ai_monitored/turret_protected/ai)
+"UI" = (
+/obj/item/weldingtool/experimental,
+/obj/machinery/portable_atmospherics/canister/tritium,
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"UK" = (
+/obj/item/stack/ore/bananium,
+/turf/open/floor/mineral/bananium,
+/area/ai_monitored/turret_protected/ai)
+"Vg" = (
+/obj/effect/decal/remains/human,
+/obj/structure/sign/poster/contraband/fun_police{
+	pixel_y = -32
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"Vp" = (
+/obj/machinery/abductor/gland_dispenser,
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"Vu" = (
+/obj/structure/alien/egg/burst,
+/obj/structure/alien/weeds,
+/turf/open/floor/grass/fakebasalt,
+/area/ai_monitored/turret_protected/ai)
+"Vw" = (
+/obj/effect/spawner/lootdrop/clockcult,
+/turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"Vx" = (
+/mob/living/simple_animal/cheese,
+/turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"VK" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/table/wood/fancy/red,
+/obj/item/soulstone,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"VT" = (
+/obj/effect/spawner/structure/window/reinforced,
+/obj/effect/turf_decal/tile/red{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/red{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/red{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/red,
+/turf/open/floor/white,
+/area/ai_monitored/turret_protected/ai)
+"WB" = (
+/obj/structure/reagent_dispensers/watertank,
+/obj/effect/turf_decal/tile/red{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/red{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/red,
+/obj/effect/turf_decal/tile/red{
+	dir = 8
+	},
+/turf/open/floor/white,
+/area/ai_monitored/turret_protected/ai)
+"WG" = (
+/obj/effect/rune/narsie{
+	color = "#ff0000";
+	used = 1
+	},
+/obj/effect/decal/remains/human,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"Xa" = (
+/obj/machinery/door/airlock/plasma,
+/turf/open/floor/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"Xj" = (
+/turf/closed/wall/mineral/plasma,
+/area/ai_monitored/turret_protected/ai)
+"XC" = (
+/obj/structure/sign/poster/official/report_crimes{
+	pixel_x = -32;
+	pixel_y = 32
+	},
+/turf/open/floor/carpet,
+/area/ai_monitored/turret_protected/ai)
+"XL" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/turf/open/floor/carpet,
+/area/ai_monitored/turret_protected/ai)
+"Yl" = (
+/obj/machinery/door/window/southleft{
+	dir = 8;
+	name = "Core Modules"
+	},
+/obj/effect/spawner/lootdrop/aimodule_harmless,
+/obj/effect/spawner/lootdrop/aimodule_neutral,
+/turf/open/floor/circuit/green,
+/area/ai_monitored/turret_protected/ai)
+"Yn" = (
+/obj/structure/table/wood/fancy/red,
+/obj/item/clothing/suit/space/hardsuit/cult,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"YH" = (
+/obj/structure/destructible/cult/forge,
+/turf/open/floor/mineral/plastitanium/red,
+/area/ai_monitored/turret_protected/ai)
+"Zh" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/black,
+/area/ai_monitored/turret_protected/ai)
+"Zl" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 8
+	},
+/turf/open/floor/plating/abductor,
+/area/ai_monitored/turret_protected/ai)
+"ZR" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/structure/flora/rock/pile/icy,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
 
 (1,1,1) = {"
-hh
-hh
-bq
-kc
-RN
-Cj
-VE
-bp
-zn
+YH
+YH
+oe
+hD
+kD
+xK
+ic
+QP
+gn
 "}
 (2,1,1) = {"
-gb
-eU
-eU
-eU
-PX
-Zv
-Zv
-VW
-dB
+oj
+Kd
+Kd
+Kd
+yV
+XC
+uM
+Be
+MN
 "}
 (3,1,1) = {"
-gm
-Na
-GA
-Na
-PX
-Zv
-Zv
-VW
-dg
+tx
+Mx
+WG
+Mx
+yV
+uM
+uM
+Be
+LP
 "}
 (4,1,1) = {"
-fK
-Na
-Na
-Na
-RN
-Zv
-Zv
-bh
-ty
+Hf
+Mx
+Mx
+Vg
+kD
+uM
+uM
+Sa
+wk
 "}
 (5,1,1) = {"
-hY
-AV
-Nz
-WW
-RN
-Tm
-Zv
-VW
-xD
+Sg
+fY
+oD
+cK
+kD
+PK
+uM
+Be
+IB
 "}
 (6,1,1) = {"
-fK
-EH
-Sv
-XG
-RN
-Uz
-Zv
-bh
-aa
+Hf
+eX
+pe
+Yn
+kD
+pK
+uM
+Sa
+yN
 "}
 (7,1,1) = {"
-fK
-YX
-uA
-Xy
-RN
-Uz
-Zv
-uD
-zP
+Hf
+wg
+VK
+aZ
+kD
+pK
+uM
+XL
+ri
 "}
 (8,1,1) = {"
-gm
-fK
-Na
-DZ
-RN
-Uz
-Zv
-Zv
-Zv
+tx
+Hf
+Mx
+sH
+kD
+pK
+uM
+uM
+uM
 "}
 (9,1,1) = {"
-Na
-TE
-fK
-fK
-RN
-Uz
-Zv
-Zv
-Zv
+Mx
+iZ
+Hf
+Hf
+kD
+pK
+uM
+uM
+uM
 "}
 (10,1,1) = {"
-MR
-dZ
-dZ
-MR
-MR
-EW
-sT
-sT
-EW
+jO
+uo
+uo
+jO
+jO
+ai
+AN
+AN
+ai
 "}
 (11,1,1) = {"
-rP
-oS
-oS
-rP
-eC
-Qy
-OM
-OM
-OM
+Pq
+CG
+CG
+Pq
+BU
+mm
+Tl
+Tl
+Tl
 "}
 (12,1,1) = {"
-Df
-oS
-oS
-Df
-eC
-hE
-ac
-ac
-OM
+oL
+CG
+CG
+oL
+BU
+Tt
+BR
+BR
+Tl
 "}
 (13,1,1) = {"
-Ix
-bE
-oS
-gd
-eC
-FQ
-OM
-OM
-OM
+vw
+Vx
+CG
+SK
+BU
+aD
+Tl
+Tl
+Tl
 "}
 (14,1,1) = {"
-Vb
-oS
-oS
-Aj
-MR
-EW
-ac
-sG
-ho
+Kn
+CG
+CG
+pH
+jO
+ai
+BR
+Vw
+TH
 "}
 (15,1,1) = {"
-Df
-oS
-oS
-Df
-MR
-GX
-OM
-Xl
-Tw
+oL
+CG
+CG
+oL
+jO
+rK
+Tl
+lc
+xd
 "}
 (16,1,1) = {"
-Pc
-oS
-oS
-nL
-MR
-OM
-DQ
-EW
-ac
+MK
+CG
+CG
+mv
+jO
+Tl
+hC
+ai
+BR
 "}
 (17,1,1) = {"
-Yr
-oS
-bE
-GB
-eC
-FQ
-sG
-OM
-ho
+bT
+CG
+Vx
+qv
+BU
+aD
+Vw
+Tl
+TH
 "}
 (18,1,1) = {"
-Df
-oS
-oS
-Df
-eC
-FQ
-OM
-OM
-fW
+oL
+CG
+CG
+oL
+BU
+aD
+Tl
+Tl
+dR
 "}
 (19,1,1) = {"
-rP
-oS
-oS
-rP
-eC
-KC
-sT
-sT
-sT
+Pq
+CG
+CG
+Pq
+BU
+tK
+AN
+AN
+AN
 "}
 (20,1,1) = {"
-Lo
-kX
-YE
-Lo
-Lo
-ix
-ix
-ix
-ix
+DP
+MH
+gI
+DP
+DP
+Sr
+Sr
+Sr
+Sr
 "}
 (21,1,1) = {"
-Ce
-ad
-ad
-sR
-Lo
-Zj
-Zj
-uh
-Qv
+Lg
+Nz
+Nz
+vC
+DP
+jp
+no
+fm
+bI
 "}
 (22,1,1) = {"
-un
-dr
-Un
-TX
-Lo
-Zj
-Zj
-Zj
-Zj
+Si
+eH
+Bz
+NI
+DP
+no
+no
+no
+no
 "}
 (23,1,1) = {"
-ad
-ad
-Wz
-Wz
-Lo
-XF
-ix
-ix
-Zj
+Nz
+Nz
+Po
+Po
+DP
+fu
+Sr
+Sr
+no
 "}
 (24,1,1) = {"
-dr
-Wz
-dr
-vT
-Lo
-fn
-ix
-ix
-Zj
+eH
+Po
+eH
+UK
+DP
+La
+Sr
+Sr
+no
 "}
 (25,1,1) = {"
-ad
-dr
-ad
-ad
-Lo
-Zj
-Zj
-Zj
-Zj
+Nz
+eH
+Nz
+Nz
+DP
+no
+no
+no
+no
 "}
 (26,1,1) = {"
-ad
-ad
-Wz
-ad
-Lo
-Zj
-Qv
-uP
-Zj
+Nz
+Nz
+Po
+Nz
+DP
+jp
+bI
+AB
+no
 "}
 (27,1,1) = {"
-un
-Wz
-ad
-Cz
-Lo
-ix
-ix
-ix
-ix
+Si
+Po
+Nz
+Lz
+DP
+Sr
+Sr
+Sr
+Sr
 "}
 (28,1,1) = {"
-Ep
-ad
-dr
-bd
-Lo
-FI
-RB
-xc
-oV
+vm
+Nz
+eH
+ej
+DP
+Zh
+ec
+ni
+VT
 "}
 (29,1,1) = {"
-nt
-YE
-YE
-nt
-Lo
-BH
-nf
-cy
-Ux
+Hp
+gI
+gI
+Hp
+DP
+yP
+Ul
+WB
+Cr
 "}
 (30,1,1) = {"
-kG
-gA
-gA
-Tp
-cO
-AJ
-Ny
-HX
-zX
+sX
+fz
+fz
+zQ
+aB
+ER
+qt
+lQ
+wF
 "}
 (31,1,1) = {"
-gA
-gA
-gA
-Fn
-cO
-FI
-RB
-xc
-oV
+fz
+fz
+fz
+wr
+aB
+Zh
+ec
+ni
+VT
 "}
 (32,1,1) = {"
-Yq
-KK
-gA
-gA
-cO
-QD
-QD
-QD
-QD
+kt
+rA
+fz
+fz
+aB
+qQ
+qQ
+qQ
+qQ
 "}
 (33,1,1) = {"
-gA
-Yq
-Yq
-gA
-cO
-UY
-QD
-QD
-YN
+fz
+kt
+kt
+fz
+aB
+Lx
+qQ
+qQ
+Pk
 "}
 (34,1,1) = {"
-ZB
-gA
-gA
-KK
-cO
-UY
-bg
-QD
-UY
+ac
+fz
+fz
+rA
+aB
+Db
+lv
+qQ
+Db
 "}
 (35,1,1) = {"
-gA
-gA
-gA
-gA
-cO
-UY
-QD
-QD
-UY
+fz
+fz
+fz
+CO
+aB
+Db
+qQ
+qQ
+Db
 "}
 (36,1,1) = {"
-gA
-sC
-Yq
-gA
-cO
-oF
-oh
-pH
-Pm
+fz
+eO
+kt
+fz
+aB
+Yl
+jU
+eL
+hq
 "}
 (37,1,1) = {"
-gA
-Yq
-Fn
-Yq
-cO
-UY
-QD
-QD
-UY
+fz
+kt
+wr
+kt
+aB
+rH
+qQ
+qQ
+Db
 "}
 (38,1,1) = {"
-gA
-gA
-gA
-gA
-cO
-UY
-QD
-QD
-UY
+fz
+fz
+fz
+fz
+aB
+wy
+qQ
+qQ
+Db
 "}
 (39,1,1) = {"
-wJ
-gA
-gA
-rV
-cO
-Fi
-QD
-QD
-Fi
+bR
+fz
+fz
+cb
+aB
+OP
+qQ
+qQ
+OP
 "}
 (40,1,1) = {"
-Eb
-Kk
-Kk
-Eb
-Kd
-cO
-nU
-nU
-cO
+OS
+Or
+Or
+OS
+Mp
+aB
+sx
+sx
+aB
 "}
 (41,1,1) = {"
-Kr
-jb
-jb
-jb
-Kd
-GH
-ZF
-GH
-xp
+Ia
+Pa
+Pa
+Pa
+Mp
+sT
+tu
+sT
+ZR
 "}
 (42,1,1) = {"
-jb
-jb
-jb
-Vh
-Kd
-hQ
-no
-SQ
-GH
+Pa
+Pa
+Pa
+Vp
+Mp
+nx
+ta
+Ns
+sT
 "}
 (43,1,1) = {"
-JW
-IE
-Eb
-Eb
-Kd
-fE
-EK
-GH
-GH
+FN
+pL
+OS
+OS
+Mp
+An
+EW
+sT
+sT
 "}
 (44,1,1) = {"
-em
-pY
-jb
-SV
-AL
-vI
-hQ
-rl
-GH
+Zl
+Ej
+Pa
+qO
+bJ
+bY
+nx
+rB
+sT
 "}
 (45,1,1) = {"
-sO
-qw
-wH
-jb
-Kd
-si
-hQ
-GH
-eA
+vE
+BG
+CB
+Pa
+Mp
+pj
+nx
+sT
+iy
 "}
 (46,1,1) = {"
-ax
-jb
-jb
-jb
-Kd
-rc
-GH
-GH
-GH
+rP
+Pa
+Pa
+Pa
+Mp
+gD
+sT
+sT
+sT
 "}
 (47,1,1) = {"
-Eb
-Eb
-Eb
-zv
-Kd
-GH
-SK
-no
-GH
+OS
+OS
+OS
+tl
+Mp
+sT
+tS
+ta
+sT
 "}
 (48,1,1) = {"
-ur
-jb
-jb
-jb
-Kd
-SL
-GH
-GH
-no
+ct
+Pa
+Pa
+Pa
+Mp
+kA
+sT
+sT
+ta
 "}
 (49,1,1) = {"
-jb
-pV
-jb
-jb
-Kd
-GH
-GH
-GH
-GH
+Pa
+DQ
+Pa
+Pa
+Mp
+sT
+sT
+sT
+sT
 "}
 (50,1,1) = {"
-Ps
-Ps
-Ps
-Ps
-Ig
-aI
-Lm
-Lm
-aI
+Xa
+Xa
+Xa
+Xa
+Xj
+Ca
+Aw
+Aw
+Ca
 "}
 (51,1,1) = {"
-uN
-uN
-uN
-uN
-Ig
-Ng
-Ng
-qe
-Ip
+PH
+PH
+PH
+OC
+Xj
+wh
+cs
+Vu
+aW
 "}
 (52,1,1) = {"
-VL
-uN
-YA
-YA
-Ig
-FU
-pA
-pA
-Ip
+KG
+PH
+BF
+BF
+Xj
+wu
+OA
+OA
+aW
 "}
 (53,1,1) = {"
-uN
-Ct
-YA
-Hj
-Ig
-Ng
-pA
-jO
-Ip
+PH
+uK
+BF
+UI
+Xj
+cs
+OA
+MV
+aW
 "}
 (54,1,1) = {"
-uN
-uN
-YA
-YA
-Ig
-kz
-pA
-Ip
-qe
+PH
+PH
+BF
+BF
+Xj
+zq
+OA
+aW
+Vu
 "}
 (55,1,1) = {"
-uN
-uN
-uN
-uN
-Ig
-Ip
-pA
-Ip
-pA
+PH
+PH
+PH
+TF
+Xj
+aW
+OA
+aW
+OA
 "}
 (56,1,1) = {"
-YA
-YA
-uN
-uN
-te
-Ip
-pA
-Ip
-Ng
+BF
+BF
+PH
+PH
+EN
+mr
+OA
+aW
+cs
 "}
 (57,1,1) = {"
-rS
-YA
-hg
-uN
-te
-pA
-pA
-pA
-Ng
+am
+BF
+tN
+PH
+EN
+Bo
+Bo
+Bo
+cs
 "}
 (58,1,1) = {"
-Lz
-YA
-uN
-uN
-te
-Ng
-Ng
-kz
-Ng
+MO
+BF
+PH
+PH
+EN
+cs
+cs
+hZ
+cs
 "}
 (59,1,1) = {"
-xR
-YA
-uN
-uN
-te
-yx
-yx
-yx
-yx
+Ii
+BF
+PH
+PH
+EN
+er
+er
+er
+er
 "}
