@@ -300,15 +300,6 @@
 /obj/structure/bookcase/random/nonfiction,
 /turf/open/floor/carpet,
 /area/ai_monitored/turret_protected/ai)
-"iy" = (
-/obj/item/clothing/head/bearpelt,
-/obj/item/reagent_containers/food/snacks/meat/slab/bear,
-/obj/item/reagent_containers/food/snacks/meat/slab/bear,
-/obj/item/reagent_containers/food/snacks/meat/slab/bear,
-/obj/item/reagent_containers/food/snacks/meat/slab/bear,
-/obj/effect/decal/cleanable/blood,
-/turf/open/floor/grass/snow,
-/area/ai_monitored/turret_protected/ai)
 "iZ" = (
 /obj/effect/rune/convert,
 /turf/open/floor/mineral/plastitanium/red,
@@ -341,6 +332,11 @@
 	},
 /turf/open/floor/noslip,
 /area/ai_monitored/turret_protected/ai)
+"jG" = (
+/obj/structure/flora/rock,
+/obj/effect/decal/cleanable/glitter/blue,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
 "jO" = (
 /turf/closed/wall/mineral/gold,
 /area/ai_monitored/turret_protected/ai)
@@ -351,10 +347,6 @@
 "kt" = (
 /mob/living/simple_animal/butterfly,
 /turf/open/floor/grass/fairy/green,
-/area/ai_monitored/turret_protected/ai)
-"kA" = (
-/obj/structure/fluff/grave,
-/turf/open/floor/grass/snow,
 /area/ai_monitored/turret_protected/ai)
 "kD" = (
 /turf/closed/wall/mineral/cult,
@@ -387,6 +379,11 @@
 	},
 /turf/open/floor/white,
 /area/ai_monitored/turret_protected/ai)
+"lV" = (
+/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/glitter/blue,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
 "mm" = (
 /obj/effect/spawner/lootdrop/clockcult,
 /obj/structure/noticeboard{
@@ -416,6 +413,11 @@
 	pixel_y = -32
 	},
 /turf/open/floor/carpet/orange,
+/area/ai_monitored/turret_protected/ai)
+"mE" = (
+/obj/structure/fluff/grave,
+/obj/effect/decal/cleanable/glitter/blue,
+/turf/open/floor/grass/snow,
 /area/ai_monitored/turret_protected/ai)
 "ni" = (
 /obj/effect/spawner/structure/window/reinforced,
@@ -541,10 +543,6 @@
 /obj/effect/overlay/palmtree_l,
 /turf/open/floor/grass/fairy/green,
 /area/ai_monitored/turret_protected/ai)
-"rB" = (
-/obj/effect/decal/cleanable/blood,
-/turf/open/floor/grass/snow,
-/area/ai_monitored/turret_protected/ai)
 "rH" = (
 /obj/machinery/power/apc/highcap{
 	dir = 1;
@@ -581,9 +579,6 @@
 	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/ai_monitored/turret_protected/ai)
-"sT" = (
-/turf/open/floor/grass/snow,
-/area/ai_monitored/turret_protected/ai)
 "sX" = (
 /obj/machinery/light{
 	dir = 8
@@ -593,19 +588,11 @@
 	},
 /turf/open/floor/grass/fairy/green,
 /area/ai_monitored/turret_protected/ai)
-"ta" = (
-/obj/structure/flora/rock,
-/turf/open/floor/grass/snow,
-/area/ai_monitored/turret_protected/ai)
 "tl" = (
 /obj/machinery/light{
 	dir = 1
 	},
 /turf/open/floor/plating/abductor,
-/area/ai_monitored/turret_protected/ai)
-"tu" = (
-/obj/structure/fluff/fokoff_sign,
-/turf/open/floor/grass/snow,
 /area/ai_monitored/turret_protected/ai)
 "tx" = (
 /obj/machinery/light{
@@ -626,10 +613,6 @@
 	dir = 1
 	},
 /turf/open/floor/mineral/plasma,
-/area/ai_monitored/turret_protected/ai)
-"tS" = (
-/obj/item/restraints/legcuffs/beartrap,
-/turf/open/floor/grass/snow,
 /area/ai_monitored/turret_protected/ai)
 "uo" = (
 /obj/machinery/door/airlock/gold,
@@ -738,6 +721,12 @@
 	dir = 4
 	},
 /turf/open/floor/clockwork/reebe,
+/area/ai_monitored/turret_protected/ai)
+"xt" = (
+/obj/structure/fluff/fokoff_sign,
+/obj/item/restraints/legcuffs/beartrap,
+/obj/effect/decal/cleanable/glitter/blue,
+/turf/open/floor/grass/snow,
 /area/ai_monitored/turret_protected/ai)
 "xK" = (
 /obj/structure/bookcase/random/adult,
@@ -967,6 +956,16 @@
 	},
 /turf/open/floor/carpet/orange,
 /area/ai_monitored/turret_protected/ai)
+"KC" = (
+/obj/item/clothing/head/bearpelt,
+/obj/item/reagent_containers/food/snacks/meat/slab/bear,
+/obj/item/reagent_containers/food/snacks/meat/slab/bear,
+/obj/item/reagent_containers/food/snacks/meat/slab/bear,
+/obj/item/reagent_containers/food/snacks/meat/slab/bear,
+/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/glitter/blue,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
 "KG" = (
 /obj/effect/mob_spawn/human/plasmaman,
 /turf/open/floor/mineral/plasma,
@@ -1065,11 +1064,6 @@
 /obj/structure/alien/weeds,
 /turf/open/floor/grass/fakebasalt,
 /area/ai_monitored/turret_protected/ai)
-"Ns" = (
-/obj/structure/fluff/fokoff_sign,
-/obj/item/restraints/legcuffs/beartrap,
-/turf/open/floor/grass/snow,
-/area/ai_monitored/turret_protected/ai)
 "Nz" = (
 /turf/open/floor/mineral/bananium,
 /area/ai_monitored/turret_protected/ai)
@@ -1146,6 +1140,11 @@
 /obj/effect/rune/raise_dead,
 /turf/open/floor/mineral/plastitanium/red,
 /area/ai_monitored/turret_protected/ai)
+"Sh" = (
+/obj/item/restraints/legcuffs/beartrap,
+/obj/effect/decal/cleanable/glitter/blue,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
 "Si" = (
 /obj/item/stack/ore/bananium,
 /obj/machinery/light{
@@ -1178,6 +1177,10 @@
 	},
 /obj/machinery/light/floor,
 /turf/open/floor/noslip,
+/area/ai_monitored/turret_protected/ai)
+"Sz" = (
+/obj/effect/decal/cleanable/glitter/blue,
+/turf/open/floor/grass/snow,
 /area/ai_monitored/turret_protected/ai)
 "SK" = (
 /obj/structure/table/wood/fancy,
@@ -1246,6 +1249,11 @@
 /mob/living/simple_animal/cheese,
 /turf/open/floor/carpet/orange,
 /area/ai_monitored/turret_protected/ai)
+"VC" = (
+/obj/structure/fluff/fokoff_sign,
+/obj/effect/decal/cleanable/glitter/blue,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
 "VK" = (
 /obj/structure/window/reinforced{
 	dir = 4
@@ -1310,6 +1318,14 @@
 	},
 /turf/open/floor/carpet,
 /area/ai_monitored/turret_protected/ai)
+"XR" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/structure/flora/rock/pile/icy,
+/obj/effect/decal/cleanable/glitter/blue,
+/turf/open/floor/grass/snow,
+/area/ai_monitored/turret_protected/ai)
 "Yl" = (
 /obj/machinery/door/window/southleft{
 	dir = 8;
@@ -1337,13 +1353,6 @@
 	dir = 8
 	},
 /turf/open/floor/plating/abductor,
-/area/ai_monitored/turret_protected/ai)
-"ZR" = (
-/obj/machinery/light/small{
-	dir = 8
-	},
-/obj/structure/flora/rock/pile/icy,
-/turf/open/floor/grass/snow,
 /area/ai_monitored/turret_protected/ai)
 
 (1,1,1) = {"
@@ -1792,10 +1801,10 @@ Pa
 Pa
 Pa
 Mp
-sT
-tu
-sT
-ZR
+Sz
+VC
+Sz
+XR
 "}
 (42,1,1) = {"
 Pa
@@ -1804,9 +1813,9 @@ Pa
 Vp
 Mp
 nx
-ta
-Ns
-sT
+jG
+xt
+Sz
 "}
 (43,1,1) = {"
 FN
@@ -1816,8 +1825,8 @@ OS
 Mp
 An
 EW
-sT
-sT
+Sz
+Sz
 "}
 (44,1,1) = {"
 Zl
@@ -1827,8 +1836,8 @@ qO
 bJ
 bY
 nx
-rB
-sT
+lV
+Sz
 "}
 (45,1,1) = {"
 vE
@@ -1838,8 +1847,8 @@ Pa
 Mp
 pj
 nx
-sT
-iy
+Sz
+KC
 "}
 (46,1,1) = {"
 rP
@@ -1848,9 +1857,9 @@ Pa
 Pa
 Mp
 gD
-sT
-sT
-sT
+Sz
+Sz
+Sz
 "}
 (47,1,1) = {"
 OS
@@ -1858,10 +1867,10 @@ OS
 OS
 tl
 Mp
-sT
-tS
-ta
-sT
+Sz
+Sh
+jG
+Sz
 "}
 (48,1,1) = {"
 ct
@@ -1869,10 +1878,10 @@ Pa
 Pa
 Pa
 Mp
-kA
-sT
-sT
-ta
+mE
+Sz
+Sz
+jG
 "}
 (49,1,1) = {"
 Pa
@@ -1880,10 +1889,10 @@ DQ
 Pa
 Pa
 Mp
-sT
-sT
-sT
-sT
+Sz
+Sz
+Sz
+Sz
 "}
 (50,1,1) = {"
 Xa
