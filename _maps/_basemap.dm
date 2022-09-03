@@ -16,6 +16,7 @@
 		#include "map_files\IceBox\IceBox.dmm"
 		#include "map_files\KiloStation\KiloStation.dmm"
 		#include "map_files\GaxStation\GaxStation.dmm"
+		#include "map_files\WakkaStation\WakkaStation.dmm"
 		#ifdef TRAVISBUILDING
 			#include "templates.dm"
 		#endif

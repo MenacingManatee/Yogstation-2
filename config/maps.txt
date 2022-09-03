@@ -21,6 +21,9 @@ map asteroidstation
 	minplayers 25
 endmap
 
+map wakkastation
+endmap
+
 map omegastation
 	maxplayers 35
 	disabled
