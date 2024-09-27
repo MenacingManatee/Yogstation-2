@@ -22,6 +22,9 @@ map asteroidstation
 	votable
 endmap
 
+map wakkastation
+endmap
+
 map omegastation
 	maxplayers 35
 	disabled

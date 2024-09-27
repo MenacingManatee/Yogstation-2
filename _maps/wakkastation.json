@@ -1,0 +1,11 @@
+{
+	"map_name": "WakkaStation",
+	"map_path": "map_files/WakkaStation",
+	"map_file": "WakkaStation.dmm",
+	"shuttles": {
+		"cargo": "cargo_box",
+		"ferry": "ferry_fancy",
+		"whiteship": "whiteship_box",
+		"emergency": "emergency_box"
+	}
+  }
